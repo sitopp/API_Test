@@ -1,5 +1,10 @@
 # API_Test
 
+参考記事
+
+* https://qiita.com/youtoy/items/cd2c3d4770d4ad75a321
+* https://sanuki-tech.net/micro-bit/bluetooth/temperature/
+
 ## WebBluetoothAPI/test.html
 動作せず
 
