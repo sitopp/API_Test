@@ -7,7 +7,7 @@
 ### mac 
 
 * Chromeで開いた：動作
-* Github上でwebアクセス：動作せず
+* Github上でwebアクセス(http://htmlpreview.github.io/?https://github.com/sitopp/API_Test/blob/master/temperture.html)：動作せず
 * S3にアップ：動作
 
 ### iOS13.6 safari
